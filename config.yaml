@@ -1,0 +1,11 @@
+Pgsql:
+  Host: 127.0.0.1
+  User: spidersens
+  Password: spidersens
+  DB: spim
+  Port: 25432
+
+Mqtt:
+  Protocol: mqtt
+  Broker: 127.0.0.1
+  Port: 1883
